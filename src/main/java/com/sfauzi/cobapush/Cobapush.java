@@ -8,7 +8,7 @@ package com.sfauzi.cobapush;
 /**
  *
  * @author LENOVO
- * Kelas + S1SI-05-A
+ * Kelas = S1SI-05-A
  */
 public class Cobapush {
 
