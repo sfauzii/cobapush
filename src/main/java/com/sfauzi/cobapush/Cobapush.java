@@ -7,9 +7,11 @@ package com.sfauzi.cobapush;
 
 /**
  *
- * @author LENOVO
- * Kelas = S1SI-05-A
+ * @author S FAUZI
+ * SYAHRUL FAUZI
+ * 21103015
  */
+
 public class Cobapush {
 
     public static void main(String[] args) {
