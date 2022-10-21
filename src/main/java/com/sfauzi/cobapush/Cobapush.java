@@ -16,7 +16,7 @@ public class Cobapush {
 
     public static void main(String[] args) {
        int jmlh_looping = 5;
-       int bil1 = 5;
+       int bil1 = 7;
        int bil2 = 2;
        
        CobaPushOriented push = new CobaPushOriented();
