@@ -15,7 +15,13 @@ package com.sfauzi.cobapush;
 public class Cobapush {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("SELAMAT");
+       int jmlh_looping = 5;
+       int bil1 = 5;
+       int bil2 = 2;
+       
+       CobaPushOriented push = new CobaPushOriented();
+       push.pushPush(jmlh_looping);
+        System.out.println("FUNGSI TAMBAH");
+        System.out.println("Hasilnya : " +push.tambah(bil1, bil2));
     }
 }
