@@ -12,7 +12,7 @@ package com.sfauzi.cobapush;
  */
 public class CobaPushOriented {
     public void pushPush (int jmlh_looping){
-        System.out.println("DISPLAY PSUH");
+        System.out.println("DISPLAY PUSH");
         for (int i=0; i < jmlh_looping; i++){
             System.out.println("JADI JADI");
         }
