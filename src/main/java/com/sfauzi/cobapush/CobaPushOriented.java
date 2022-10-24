@@ -14,7 +14,7 @@ public class CobaPushOriented {
     public void pushPush (int jmlh_looping){
         System.out.println("DISPLAY PUSH");
         for (int i=0; i < jmlh_looping; i++){
-            System.out.println("JADI JADI");
+            System.out.println("Alhamdulillah");
         }
     }
     public int tambah(int bil1, int bil2){
